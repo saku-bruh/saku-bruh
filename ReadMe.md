@@ -3,7 +3,7 @@
 ### I'm a Newbie Android Dev and Graphic Designer.
 - 🔭 Currently I'm working on some stuff with a few friends
 - 📱 My main devices are currently : Xperia Z1 (honami) | Galaxy S9+ (star2lte) | Galaxy Tab 10.1 2016 (gtaxllte)
-- 👀 I'm still a total noob tbh, and only have experience in Bash and some in CSS (but I am still slowly improving)
+- 👀 I'm still a noob tbh, and only have experience in Bash and some in CSS (but I am still slowly improving)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saku-bruh&theme=midnight-purple)
   
