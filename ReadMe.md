@@ -1,3 +1,10 @@
+### Hi there and Welcome to my Github. :)
+
+### I'm a Newbie Android Dev and Graphic Designer.
+- 🔭 Currently I'm working on some stuff with a few friends
+- 📱 My main devices are currently : Xperia Z1 (honami) | Galaxy S9+ (star2lte) | Galaxy Tab 10.1 2016 (gtaxllte)
+- 👀 I'm still a total noob tbh, and only have experience in Bash and some in CSS (but I am still slowly improving)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saku-bruh&theme=midnight-purple)
   
   <a href="https://t.me/GhostOS_AOSP"> <img src="https://img.shields.io/badge/telegram-Support_Group-informational?style=for-the-badge&labelColor=121217&logo=telegram" alt="Support for GhostOS" /></a>
