@@ -1,4 +1,4 @@
-### Hi there and Welcome to my Github. :)
+### Hi there and Welcome to my GitHub profile. :)
 
 ### I'm a Newbie Android Dev and Graphic Designer.
 - 🔭 Currently I'm working on some stuff with a few friends
