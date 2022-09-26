@@ -1,9 +1,9 @@
 ### Hi there and Welcome to my GitHub profile. :)
 
-### I'm a Newbie Android Dev and Graphic Designer.
-- 🔭 Working on some stuff with a few friends...
-- 📱 My main devices are currently : Xperia 1 III (sagami) | Galaxy S9+ (star2lte) | Galaxy Tab 10.1 2016 (gtaxllte)
-- 👀 I'm still a improving , and have some experience in Bash, PS, CSS and TypeScript.
+### I'm a Android Dev and Graphic Designer.
+- 🔭 As always im working on some stuff...
+- 📱 My main devices are currently : Xperia 1 III (sagami) | Xperia X (suzu) | Galaxy S9+ (star2lte) | Galaxy Tab 10.1 2016 (gtaxllte)
+- 👀 I'm improving everyday so that's good :-)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saku-bruh&theme=midnight-purple)
   
