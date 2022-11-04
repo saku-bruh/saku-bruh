@@ -11,7 +11,7 @@ OSes:
 
 [![](https://img.shields.io/badge/Windows-11-00A4EF?style=flat-square&logo=windows&logoColor=00A4EF)](https://www.microsoft.com/windows/get-windows-11)
 [![](https://img.shields.io/badge/Arch-Linux-d59707?style=flat-square&logo=archlinux&logoColor=d59707)](https://archlinux.org/download/)
-[![](https://img.shields.io/badge/Android-12-3DDC84?style=flat-square&logo=android&logoColor=3DDC84)](https://www.android.com/)
+[![](https://img.shields.io/badge/Android-13-3DDC84?style=flat-square&logo=android&logoColor=3DDC84)](https://www.android.com/)
 
 Languages:
 
