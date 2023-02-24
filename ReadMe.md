@@ -2,16 +2,16 @@
 
 ### I'm a Android Dev and Graphic Designer.
 - 🔭 As always im working on some stuff...
-- 📱 My main devices are currently : Xperia 1 III (sagami) | Xperia X (suzu) | Galaxy S9+ (star2lte) | Galaxy Tab 10.1 2016 (gtaxllte)
+- 📱 My main devices are currently : Xperia 1 III (sagami) | Xperia X (suzu) | Galaxy S9+ (star2lte) 
 - 👀 I'm improving everyday so that's good :-)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saku-bruh&theme=midnight-purple)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saku-bruh&theme=radical)
   
 OSes:
 
-[![](https://img.shields.io/badge/Windows-11-00A4EF?style=flat-square&logo=windows&logoColor=00A4EF)](https://www.microsoft.com/windows/get-windows-11)
-[![](https://img.shields.io/badge/Arch-Linux-d59707?style=flat-square&logo=archlinux&logoColor=d59707)](https://archlinux.org/download/)
 [![](https://img.shields.io/badge/Android-13-3DDC84?style=flat-square&logo=android&logoColor=3DDC84)](https://www.android.com/)
+[![](https://img.shields.io/badge/Windows-11-00A4EF?style=flat-square&logo=windows&logoColor=00A4EF)](https://www.microsoft.com/windows/get-windows-11/)
+[![](https://img.shields.io/badge/BlendOS-Linux-da19e0?style=flat-square&logo=archlinux&logoColor=da19e0)](https://blendos.co/)
 
 Languages:
 
