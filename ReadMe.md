@@ -2,11 +2,15 @@
 
 ### I'm a Android Dev and Graphic Designer.
 - 🔭 As always im working on some stuff...
-- 📱 My main devices are currently : Xperia 1 III (sagami) | Xperia X (suzu) | Galaxy S9+ (star2lte) 
+- 📱 My main devices are currently : **Xperia 1 III** (sagami) | **Xperia X** (suzu) | **Galaxy S9+** (star2lte) 
 - 👀 I'm improving everyday so that's good :-)
 
+**I work on Sony Devices for anyone who's interested here's my organization:**
+
+https://github.com/xperiaossdev
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saku-bruh&theme=radical)
-  
+
 OSes:
 
 [![](https://img.shields.io/badge/Android-13-3DDC84?style=flat-square&logo=android&logoColor=3DDC84)](https://www.android.com/)
