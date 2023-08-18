@@ -7,9 +7,9 @@
 
 **Lead Dev of**
 
-[![](https://img.shields.io/badge/XperiaOSSDev%20%20-000000?style=flat-square&logo=Sony&logoColor=FFFFFF&labelColor=000000)](https://github.com/xperiaossdev)
+[![](https://img.shields.io/badge/XperiaLabs%20%20-000000?style=flat-square&logo=Sony&logoColor=FFFFFF&labelColor=000000)](https://github.com/XperiaLabs)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saku-bruh&theme=omni&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saku-bruh&theme=chartreuse-dark&show_icons=true)
 
 ### 📱 Devices
 [![Xperia 1 III](https://img.shields.io/badge/Xperia%201%20III-000000?style=flat-square&logo=Sony&logoColor=FFFFFF&labelColor=000000)](https://www.sony-asia.com/electronics/smartphones/xperia-1m3)
